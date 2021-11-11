@@ -1,7 +1,7 @@
 Random Hell Rush is a 2D Tower Defense game. Press tower buttons to summon an Archer or Mage tower randomly, you can upgrade both of using gold. You can also press on the path to use "Holy Water", to slow down enemies.
 
 
-![Alt Text](https://ibb.co/zhDmT0H)
+![Alt Text](https://i.ibb.co/tMFHTWP/Screen-Shot-2021-11-11-at-02-56-38.png)
 
 
 
